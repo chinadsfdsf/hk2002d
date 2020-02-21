@@ -19,8 +19,7 @@ categories:
 <br>
 
 
-{{< mymp4o mp4="20200218_isdipnp_hiw.mp4"
-text="len 3433515    3.3M"
+{{< my2mp4withjpgdownload mp4="20200218_isdipnp_hiw.mp4"
 >}}
 
 {{< my2jpgexist "xx1.jpg" >}}<br>
@@ -34,7 +33,6 @@ text="len 3433515    3.3M"
 <br>
 
 {{< my2linktextonly link="https://www.youtube.com/watch?v=IsdipnP_hiw"
-en="the origin source link" cn="原始來源網址"
 >}}
 
 

@@ -19,8 +19,7 @@ categories:
 <br>
 
 
-{{< mymp4o mp4="20200218_ttkzadnas_o.mp4"
-text="len 2413272    2.4M"
+{{< my2mp4withjpgdownload mp4="20200218_ttkzadnas_o.mp4"
 >}}
 
 {{< my2jpgexist "xx1.jpg" >}}<br>
@@ -34,7 +33,6 @@ text="len 2413272    2.4M"
 <br>
 
 {{< my2linktextonly link="https://www.youtube.com/watch?v=TTkZadNAS_o"
-en="the origin source link" cn="原始來源網址"
 >}}
 
 

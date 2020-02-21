@@ -19,8 +19,7 @@ categories:
 <br>
 
 
-{{< mymp4o mp4="20200217_pxbcgeqe2ga.mp4"
-text="len 3473570    3.4M"
+{{< my2mp4withjpgdownload mp4="20200217_pxbcgeqe2ga.mp4"
 >}}
 
 {{< my2jpgexist "xx1.jpg" >}}<br>
@@ -34,7 +33,6 @@ text="len 3473570    3.4M"
 <br>
 
 {{< my2linktextonly link="http://www.youtube.com/watch?v=pxBcgEqE2GA"
-en="the origin source link" cn="原始來源網址"
 >}}
 
 

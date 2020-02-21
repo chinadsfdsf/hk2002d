@@ -33,7 +33,6 @@ categories:
 <br>
 
 {{< my2linktextonly link="https://www.youtube.com/watch?v=bLJYHkBr7rU"
-en="the origin source link" cn="原始來源網址"
 >}}
 
 
