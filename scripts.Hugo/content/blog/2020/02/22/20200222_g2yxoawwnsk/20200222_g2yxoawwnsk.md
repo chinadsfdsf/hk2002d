@@ -1,0 +1,41 @@
+---
+title : "memehongkong:美股重挫反映經濟衝擊憂慮 大陸政策反轉又反轉玩殘全世界 2020-02-22 "
+date:        2020-02-22T12:46:24-07:00
+tags:
+ - youtube
+ - memehongkong
+ - youtube_memehongkong
+ - 202002
+ - 20200222
+ - 20200222_12
+categories:
+ - 20200222
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="memehongkong: "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200222_g2yxoawwnsk.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="memehongkong:美股重挫反映經濟衝擊憂慮 大陸政策反轉又反轉玩殘全世界 2020-02-22 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=G2YxoaWwnsk"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+
