@@ -1,0 +1,41 @@
+---
+title : "關鍵時刻:激增破百例超級感染「毒后」擊潰防線！ 軍人全禁足南韓大邱就怕被「封城」！？  【關鍵時刻】20200220-5劉寶傑 馬西屏 王瑞德 "
+date:        2020-02-22T19:48:13-07:00
+tags:
+ - youtube
+ - 關鍵時刻
+ - youtube_關鍵時刻
+ - 202002
+ - 20200222
+ - 20200222_19
+categories:
+ - 20200222
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="關鍵時刻:激增破百例超級感染「毒后」 擊潰防線！ 軍人全禁足南韓大邱就怕被「封城」！？ 日官員稱「不像哥吉拉咳就不會傳染」！？「沒有警戒性」導致病例遍地開花！？  《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans 《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7  #劉寶傑 #新聞萬象內幕追擊 #週一至週五看寶傑的關鍵時刻 "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200220_s83s_livb7dwsxsg.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="關鍵時刻:激增破百例超級感染「毒后」擊潰防線！ 軍人全禁足南韓大邱就怕被「封城」！？  【關鍵時刻】20200220-5劉寶傑 馬西屏 王瑞德 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=lIvB7DWSXsg"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+

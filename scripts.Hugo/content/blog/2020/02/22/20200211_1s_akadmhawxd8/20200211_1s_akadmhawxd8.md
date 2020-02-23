@@ -1,0 +1,41 @@
+---
+title : "關鍵時刻:不只遊玩還買東西！零售、觀光業接連重創 日「GDP下降1%」經濟恐負成長！ -【關鍵精華】劉寶傑 "
+date:        2020-02-22T19:06:44-07:00
+tags:
+ - youtube
+ - 關鍵時刻
+ - youtube_關鍵時刻
+ - 202002
+ - 20200222
+ - 20200222_19
+categories:
+ - 20200222
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="關鍵時刻:不只遊玩還買東西！零售、觀光業接連重創 日GDP降1%經濟恐負成長！ 全集：https://youtu.be/IwCETmQoQUQ  《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans 《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7  #劉寶傑 #日本 #經濟#GDP #觀光 #零售 #重創 #負成長  #遊玩 #下降 "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200211_1s_akadmhawxd8.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="關鍵時刻:不只遊玩還買東西！零售、觀光業接連重創 日「GDP下降1%」經濟恐負成長！ -【關鍵精華】劉寶傑 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=AKadMhawXd8"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+
