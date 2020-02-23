@@ -1,5 +1,5 @@
 ---
-title : "關鍵時刻:中南海急了！「天子腳下」防控升到「超一級」 醫療資源不再對外支援！ -0221【關鍵時刻2200精彩1分鐘】 "
+title : "中南海急了！「天子腳下」防控升到「超一級」 醫療資源不再對外支援！ -0221【關鍵時刻2200精彩1分鐘】 "
 date:        2020-02-22T19:54:29-07:00
 tags:
  - youtube
@@ -14,7 +14,7 @@ categories:
 #resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
 ---
 
-{{< mydiv text="關鍵時刻:中南海急了！「天子腳下」防控升到「超一級」 醫療資源不再對外支援！ -0221【關鍵時刻2200精彩1分鐘】 00:00  Youtube準時上傳 https://bit.ly/2T1hbCW  《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans 《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7  #劉寶傑 #新聞萬象內幕追擊 #週一至週五看寶傑的關鍵時刻 "
+{{< mydiv text="中南海急了！「天子腳下」防控升到「超一級」 醫療資源不再對外支援！ -0221【關鍵時刻2200精彩1分鐘】 00:00  Youtube準時上傳 https://bit.ly/2T1hbCW  《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans 《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7  #劉寶傑 #新聞萬象內幕追擊 #週一至週五看寶傑的關鍵時刻 "
 >}}
 <br>
 
@@ -28,7 +28,7 @@ categories:
 
 
 
-{{< mydiv text="關鍵時刻:中南海急了！「天子腳下」防控升到「超一級」 醫療資源不再對外支援！ -0221【關鍵時刻2200精彩1分鐘】 "
+{{< mydiv text="中南海急了！「天子腳下」防控升到「超一級」 醫療資源不再對外支援！ -0221【關鍵時刻2200精彩1分鐘】 "
 >}}
 <br>
 
