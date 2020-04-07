@@ -590,7 +590,7 @@
 
 
     <div class="w3-right"><i class="far fa-calendar" aria-hidden="true"></i>&nbsp;<i>21. Feb 2020</i></div>精神牛仔/Spiritual Cowboy: “历史上证明，一切战时共产主义政策都是失败的，行政干预市场只会导致问题越来越严重，只会导致假货泛滥，甚至要了你的性命。正确做法是允许价格上涨，刺激生产，扩大供给，从而降低价格。 https://t.co/S9iXKQgIi2”<br>
-原始來源網址  V全部  播放器  目录  M2
+原始來源網址  单曲  全部  播放器  目录  M1  M2
 
   </div>
 </a>
@@ -782,8 +782,26 @@ The_assress_of_ChinaDSF02</div><br/>
     }
     startTime();
 })();
+    <!-- mytime12 end -->
+
+function copy2clipboard(text) {
+    if (!navigator.clipboard) {
+        fallbackCopyTextToClipboard(text);
+        return;
+    }
+    navigator.clipboard.writeText(text)
+}
+function abspath2(path2) {
+    return new URL( path2 , window.location.href ).href;
+}
+function copypath2clipboard(text3) {
+    copy2clipboard( abspath2(text3) )
+}
+function gotopath4(goto4) {
+    window.setTimeout(function(){window.top.location=abspath2(goto4)} , 1000);
+}
+
 </script>
-    
 
 
   </body>
